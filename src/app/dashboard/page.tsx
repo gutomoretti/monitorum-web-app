@@ -1,6 +1,6 @@
-import DashboardLayout from './components/DashboardLayout';
+import DashboardLayout from '../components/DashboardLayout';
 
-export default function Home() {
+export default function NewDashboard() {
   return (
     <DashboardLayout activeMenuItem="Dashboard">
       <div className="space-y-6">
